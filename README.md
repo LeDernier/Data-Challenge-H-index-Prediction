@@ -8,6 +8,7 @@ This project requires **Python** and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
+- [langdetect](https://pypi.org/project/langdetect/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [pytorch](https://pytorch.org/)
 - [NLTK](https://www.nltk.org/)
