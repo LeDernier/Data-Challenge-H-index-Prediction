@@ -1,6 +1,10 @@
 # Model Evaluation and Validation
 # Data-Challenge-H-index-Prediction
 
+### Introduction
+
+This project was developed during the INF554 - Machine and Deep Learning course at Ecole Polytechnique during the period 2021-2022. It was a private Kaggle Challenge where the objective was to find the best model, based on the MSE (Mean Squared Error), to predict the h-index of the authors in the computer science domain. More details about the project are available in the document **INF554_data_challenge.pdf**.
+
 ### Install
 
 This project requires **Python** and the following Python libraries installed:
