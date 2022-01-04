@@ -1,4 +1,3 @@
-# Model Evaluation and Validation
 # Data-Challenge-H-index-Prediction
 
 ### Introduction
